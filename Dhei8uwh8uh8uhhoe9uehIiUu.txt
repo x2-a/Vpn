@@ -4,7 +4,7 @@ vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@0.0.0.0:443?security=reality&encryp
 ------------------------------------
 همراه اول
 vless://72a28bef-3c0d-4134-843e-2708a94a5e9e@cdn13.yahoo.haami13.online:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6bb85179e30d4fc2#%D8%A7%D9%84%D9%85%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
-vless://27d8f16a-e5e0-49b3-88c7-d195daa3f096@viper.iedr.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D8%A7%D9%84%D9%85%D8%A7%D9%86++%F0%9F%8C%90+%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+vless://2154f8b3-233c-4c35-91db-23b4bafd05c6@viper.iedr.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D8%A7%D9%84%D9%85%D8%A7%D9%86%F0%9F%8C%90%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA%D8%A7%D9%84%D9%85%D8%A7%D9%86
 vless://539f4e23-0caf-4204-a1a5-a5217bbaef1c@135.181.35.207:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=chrome&spx=%2Fgwlzazm%2Fkwgjb&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6bb85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%D8%A7%D9%84%D9%85%D8%A7%D9%86+%DB%B2+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+-+%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
 
