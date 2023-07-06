@@ -4,7 +4,7 @@ vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@0.0.0.0:443?security=reality&encryp
 ------------------------------------
 همراه اول
 
-
+vless://2154f8b3-233c-4c35-91db-23b4bafd05c6@viper.iedr.sbs:80?path=%2F&security=none&encryption=none&type=ws#%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7+%D8%B3%D8%B1%D9%88%D8%B1+%DB%B1%F0%9F%8C%90
 vless://c4f23000-5e36-414e-d5cc-07cc6aa5b898@49.13.48.213:2053?mode=gun&security=reality&encryption=none&pbk=Fj4Lny_f9x3Bbqf5daSQ-M6LYnNKRve90ecTZVVNSB8&fp=chrome&type=grpc&serviceName=@antifilterch&sni=www.speedtest.net&sid=44e5#%D8%B3%D8%B1%D9%88%D8%B1+%DB%B2+%F0%9F%8C%90%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://4a69d9f6-fca5-43f4-90f3-cc53534561d3@104.31.16.65:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy&sni=i.RsV2ray.cfd#%D8%A7%D9%84%D9%85%D8%A7%D9%86%F0%9F%8C%90%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA%D8%A7%D9%84%D9%85%D8%A7%D9%86
