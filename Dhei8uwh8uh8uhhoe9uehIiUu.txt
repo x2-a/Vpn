@@ -1,4 +1,4 @@
-
+.
 اغازی
 vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@0.0.0.0:443?security=reality&encryption=none&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medium.com&sid=a2490c7e829f3d40#%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%E2%AC%87%EF%B8%8F%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%F0%9F%8C%90%D8%A7%DB%8C%D9%86+%DB%8C%DA%A9+%D8%B3%D8%B1%D9%88%D8%B1+%D9%86%DB%8C%D8%B3%D8%AA
 ------------------------------------
