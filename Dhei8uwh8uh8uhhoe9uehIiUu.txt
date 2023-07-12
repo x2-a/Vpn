@@ -3,7 +3,7 @@
 vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@0.0.0.0:443?security=reality&encryption=none&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=medium.com&sid=a2490c7e829f3d40#%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84%E2%AC%87%EF%B8%8F%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%F0%9F%8C%90%D8%A7%DB%8C%D9%86+%DB%8C%DA%A9+%D8%B3%D8%B1%D9%88%D8%B1+%D9%86%DB%8C%D8%B3%D8%AA
 ------------------------------------
 همراه اول
-
+vless://751427ca-2dec-40f0-9723-7409e5eacb3a@185.139.7.132:443?security=reality&encryption=none&alpn=h2&pbk=1m1uQr2zXKW3HPDuKoHm8Np9IeybDp4nofjoUfIs9lo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ed599b12c05c47#%D8%AA%D9%85%D8%A7%D9%85+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%F0%9F%8C%90
 trojan://a8f284ff-7d36-493a-a0a6-87ee7f003c5c@kbawssg2.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=4-193-105-141.nhost.00cdn.com#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%F0%9F%8C%90india
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.91.107.245:1230#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84_%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%F0%9F%87%BA%F0%9F%87%B8%D8%A7%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@cn-hk-51.fnhffffe4.cc:50014?security=tls&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0Hong+kong+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84_%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA
