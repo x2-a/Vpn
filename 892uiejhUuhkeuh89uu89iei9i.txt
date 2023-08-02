@@ -1,2 +1,1 @@
-
-vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@0.0.0.0:443?path=%2F&security=reality&encryption=none&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&fp=firefox&type=http&sni=eset.com&sid=552e548e32bd#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D9%BE%D8%A7%DB%8C%D8%A7%D9%86+%DB%8C%D8%A7%D9%81%D8%AA%F0%9F%9B%91
+.
